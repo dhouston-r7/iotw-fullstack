@@ -15,6 +15,8 @@ nvm ls-remote // list installable version
 nvm install v16.4.0
 
 nvm use v16.4.0
+
+Global command to install specific version of Npm 8.7.0 - npm install -g npm@8.7.0
 ```
 
 # Setup
